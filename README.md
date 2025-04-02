@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a heartfelt endeavor by a passionate Formula 1 enthusiast and a devoted Lewis Hamilton supporter. It aims to predict the winners of the 2025 Japanese Grand Prix by harnessing the power of historical race data and advanced machine learning techniques. This approach leverages the excitement and unpredictability of F1 racing, blending personal passion with the precision of data science.
+This project is a really interesting project as a a passionate Formula 1 fan and a devoted Lewis Hamilton supporter. It aims to predict the winners of the 2025 Japanese Grand Prix by harnessing the power of historical race data and advanced machine learning techniques. This approach leverages the excitement and unpredictability of F1 racing, blending personal passion with the precision of data science.
 
 ## Context and Motivation
 
