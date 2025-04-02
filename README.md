@@ -8,6 +8,15 @@ This project is a really interesting project as a a passionate Formula 1 fan and
 
 As a lifelong Formula 1 fan, the thrill of the race, the roar of the engines, the strategic nuances, and the sheer talent of drivers like Lewis Hamilton have always captivated me. Formula 1 isn't just about speed; it's about precision, strategy, and data. Teams invest heavily in technology and data analysis to refine their strategies and optimize performance, making predictive analytics increasingly vital. This project channels my enthusiasm for the sport into a technical challenge, aiming to predict race outcomes and contribute to the community's understanding of what influences these high-stakes competitions.
 
+## Team and Driver Updates
+
+A key update for the 2025 season is the inclusion of Yuki Tsunoda, who is set to replace Liam Lawson at Red Bull Racing. This change is significant as it places Tsunoda in a top-tier team with a highly competitive car, potentially altering his performance dynamics significantly. Our model takes into account this change by adjusting the predictive analysis to forecast Tsunoda's performance in the Red Bull car, offering insights into how this move might impact his results at the challenging Suzuka Circuit.
+
+## Model Adjustments for Team Changes
+
+The predictive model has been specifically adjusted to account for Tsunoda's transition to Red Bull. We hypothesize that the switch to a more competitive team will enhance Tsunoda's performance metrics, reflected in sector time improvements due to the superior aerodynamics and engine performance of the Red Bull car compared to his previous machinery. These adjustments are crucial for making our predictions more accurate and tailored to the 2025 racing scenario.
+
+
 ## Technical Overview
 
 ### Data Collection
